@@ -1,0 +1,15 @@
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\backend.sourcelink.json
+D:\Lab 1_ISRPO_Abbasov\backend\bin\Debug\net9.0\backend.exe
+D:\Lab 1_ISRPO_Abbasov\backend\bin\Debug\net9.0\backend.deps.json
+D:\Lab 1_ISRPO_Abbasov\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+D:\Lab 1_ISRPO_Abbasov\backend\bin\Debug\net9.0\backend.dll
+D:\Lab 1_ISRPO_Abbasov\backend\bin\Debug\net9.0\backend.pdb
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\backend.dll
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\refint\backend.dll
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\backend.pdb
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+D:\Lab 1_ISRPO_Abbasov\backend\obj\Debug\net9.0\ref\backend.dll
